@@ -79,70 +79,45 @@ https://www.linkedin.com/in/lavanya-gupta-206132298/
 
 # 🌟 Featured Projects
 
-## 📊 Employee Attrition Analysis Dashboard
-
-- Built an interactive **Power BI dashboard** to analyze employee attrition.
-- Identified high-risk departments and key turnover factors.
-- Created KPIs and dashboards for HR decision-making.
-
-**Tech Stack:** Power BI • DAX • Data Visualization
-
----
-
-## 💹 Sales Data Analysis
-
-- Cleaned and analyzed sales data using **Python**.
-- Built dashboards and visualizations to identify trends.
-- Improved decision-making through data-driven insights.
-
-**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn
-
----
+# 🌟 Featured Projects
 
 ## 🎓 Student Score Predictor
 
-- Developed a Machine Learning model to predict student performance.
-- Performed preprocessing, visualization, training, and evaluation.
+A Machine Learning project that predicts student academic performance using Python and Scikit-learn. The project includes data preprocessing, exploratory data analysis, model training, evaluation, and prediction.
 
-**Tech Stack:** Python • Scikit-Learn • Pandas
+**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+
+🔗 Repository: https://github.com/lavanya-gup05/student-score-predictor
 
 ---
 
 ## 📊 Student Score Predictor (Unsupervised Learning)
 
-- Applied clustering algorithms to identify student performance groups.
-- Visualized clusters to uncover hidden learning patterns.
+An unsupervised learning project that groups students with similar academic performance using clustering techniques. Includes feature scaling, cluster visualization, and performance analysis.
 
-**Tech Stack:** Python • K-Means • Scikit-Learn
+**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • K-Means • Matplotlib
+
+🔗 Repository: https://github.com/lavanya-gup05/student-score-predictor-unsupervised-learning
 
 ---
 
 ## 🤖 Jarvis AI Voice Assistant
 
-- Built a desktop voice assistant using Python.
-- Supports speech recognition and text-to-speech automation.
+A Python-based desktop voice assistant capable of speech recognition, text-to-speech conversion, and performing various automation tasks through voice commands.
 
-**Tech Stack:** Python • SpeechRecognition • pyttsx3
+**Tech Stack:** Python • SpeechRecognition • pyttsx3 • Automation
+
+🔗 Repository: https://github.com/lavanya-gup05/jarvis-ai-voice-assistant
 
 ---
 
 ## 💬 AI Auto Reply Chatbot
 
-- Developed an AI chatbot capable of generating automated replies.
-- Simulates real-time conversations.
+An AI-powered chatbot that generates automated responses and simulates real-time conversations using Natural Language Processing concepts.
 
-**Tech Stack:** Python • NLP
+**Tech Stack:** Python • NLP • Automation
 
----
-
-## 🛒 Art Cart – E-Commerce Website
-
-- Designed and developed a responsive e-commerce website.
-- Implemented dynamic product listings and shopping features.
-
-**Tech Stack:** HTML • CSS • JavaScript
-
----
+🔗 Repository: https://github.com/lavanya-gup05/AI-Auto-Reply-Chatbot
 
 # 🏆 Achievements
 
