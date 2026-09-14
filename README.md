@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Lavanya Gupta</h1>
 
 <h3 align="center">
-Data Analyst • Python Developer • Machine Learning Enthusiast
+AI/ML Enthusiast • Data Analyst • Python Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Learner;Always+Learning+New+Technologies!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Data+Analytics;Python+Developer;NLP+%26+Generative+AI;Building+Real-World+AI+Solutions!" />
 </p>
 
 <p align="center">
@@ -26,54 +26,92 @@ Data Analyst • Python Developer • Machine Learning Enthusiast
 
 # 👩‍💻 About Me
 
-🎓 B.Tech Information Technology student at **Dr. Akhilesh Das Gupta Institute of Professional Studies (GGSIPU), Delhi** (2023–2027).
+🎓 B.Tech Information Technology student focused on **Artificial Intelligence and Machine Learning**.
 
-💡 Passionate about **Machine Learning, Data Analytics, Python, SQL, and AI**.
+💡 Passionate about **AI/ML, Data Analytics, Python, NLP, SQL, and Generative AI**.
 
-📊 I enjoy analyzing data, building machine learning models, creating dashboards, and solving real-world problems through technology.
+🤖 Experienced in building **ML and GenAI-powered web applications** using Scikit-learn, LangChain, Groq API, Flask, and Streamlit.
 
-🌱 **Currently Learning**
+📊 I enjoy working with data, building machine learning models, creating dashboards, and developing practical AI-powered solutions.
 
-- Machine Learning
-- Power BI
-- SQL
-- Data Analytics
-- Python for AI
+🌱 **Currently Exploring**
+
+* Machine Learning & NLP
+* Generative AI & LLMs
+* RAG Applications
+* Data Analytics & Power BI
+* Python Development
 
 🎯 **Career Goal**
 
-To build impactful AI and Data Analytics solutions while continuously learning and contributing to real-world projects.
+To build impactful **AI, Machine Learning, and Data Analytics solutions** that solve real-world problems.
 
 ---
 
-# 🎓 Education
+# 💼 Professional Experience
 
-### Dr. Akhilesh Das Gupta Institute of Professional Studies (GGSIPU)
+### 📊 Data Analytics Intern — Lagazon.ai Technologies
 
-**Bachelor of Technology (Information Technology)**
+**New Delhi, India | May 2026 – Aug 2026**
 
-📅 **2023 – 2027**
+* Built a **4-page Power BI Sales Analytics Dashboard** using the AdventureWorks dataset.
+* Created **20+ DAX measures** for KPIs including Revenue, Profit, Margin %, Orders, and Customer Count.
+* Analyzed sales, product, customer, regional, and YoY performance.
+* Implemented interactive **slicers, drill-throughs, bookmarks, and dynamic visualizations**.
 
 ---
 
-# 💻 Tech Stack & Tools
+# 🛠️ Tech Stack & Skills
 
-| Category | Technologies |
-|-----------|--------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| Category                | Technologies                                                                                                                                                                                                                                                                                                           |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming**         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black) |
+| **Machine Learning**    | ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white) Supervised Learning • Classification • Regression • Feature Engineering • Model Evaluation                                                                                                     |
+| **NLP**                 | Text Preprocessing • TF-IDF • Text Classification                                                                                                                                                                                                                                                                      |
+| **Deep Learning**       | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)                                                                                                                                                                                                               |
+| **Generative AI**       | LangChain • Groq API • Prompt Engineering • RAG • Speech-to-Text                                                                                                                                                                                                                                                       |
+| **Data Science**        | Pandas • NumPy • Matplotlib • Seaborn • EDA • Data Preprocessing                                                                                                                                                                                                                                                       |
+| **Data Analytics & BI** | Power BI • DAX • Power Query                                                                                                                                                                                                                                                                                           |
+| **Web Development**     | HTML • CSS • JavaScript • Flask • Streamlit                                                                                                                                                                                                                                                                            |
+| **Tools & Platforms**   | Git • GitHub • VS Code • Google Cloud • Streamlit Cloud                                                                                                                                                                                                                                                                |
 
 ---
 
 # 🚀 Featured Projects
 
+## 🎥 AI Video Assistant
+
+**LLM-Powered Meeting Transcription & Summarization Tool**
+
+A GenAI web application that transcribes meeting recordings and generates structured insights such as summaries, action items, key decisions, and open questions.
+
+**Tech Stack**
+
+`Python` `Streamlit` `LangChain` `Groq API` `Whisper` `yt-dlp`
+
+🔗 **Repository**
+
+https://github.com/lavanya-gup05/AI-Video-Assistant
+
+---
+
+## 🕵️ Fake Product Review Detection
+
+An NLP-based machine learning application that classifies product reviews as potentially **fake or genuine** using text preprocessing and TF-IDF feature extraction.
+
+**Tech Stack**
+
+`Python` `NLP` `Scikit-Learn` `TF-IDF` `Flask` `SQLite`
+
+🔗 **Repository**
+
+https://github.com/lavanya-gup05/fake-review-analyzer
+
+---
+
 ## 🎓 Student Score Predictor
 
-Machine Learning model that predicts student performance using regression algorithms. Includes data preprocessing, visualization, model training, and evaluation.
+Machine learning project that predicts student performance using regression techniques with data preprocessing, EDA, visualization, and model evaluation.
 
 **Tech Stack**
 
@@ -85,57 +123,49 @@ https://github.com/lavanya-gup05/student-score-predictor
 
 ---
 
-## 📊 Student Score Predictor (Unsupervised Learning)
+## 🌐 Personal Portfolio Website
 
-Implemented clustering techniques to group students based on academic performance. Includes preprocessing, feature scaling, K-Means clustering, and cluster visualization.
+A multi-page personal portfolio website with a **Firebase Firestore-backed admin panel** for dynamically managing projects, skills, and certificates.
 
-**Tech Stack**
-
-`Python` `Pandas` `Scikit-Learn` `K-Means`
-
-🔗 **Repository**
-
-https://github.com/lavanya-gup05/student-score-predictor-unsupervised-learning
-
----
-
-## 🤖 Jarvis AI Voice Assistant
-
-A desktop voice assistant built using Python that performs voice-based automation through speech recognition and text-to-speech technology.
+Includes Firebase Authentication and an EmailJS-powered contact form.
 
 **Tech Stack**
 
-`Python` `SpeechRecognition` `pyttsx3`
+`HTML` `CSS` `JavaScript` `Firebase` `EmailJS` `Vercel`
 
 🔗 **Repository**
 
-https://github.com/lavanya-gup05/jarvis-ai-voice-assistant
+https://github.com/lavanya-gup05/Lavanya_Portfolio
+
+🌍 **Live Portfolio**
+
+https://lavanya-portfolio-rho.vercel.app/
 
 ---
 
-## 💬 AI Auto Reply Chatbot
+# 🏆 Achievements & Learning
 
-An AI-powered chatbot that generates automated responses and simulates intelligent conversations using Natural Language Processing concepts.
+☁️ Completed multiple **Google Cloud Skill Boost Labs**
 
-**Tech Stack**
+🤖 Built projects in **Machine Learning, NLP, Generative AI, and Data Analytics**
 
-`Python` `NLP`
+📊 Hands-on experience with **Power BI and DAX**
 
-🔗 **Repository**
+💻 Developed and deployed multiple AI-powered web applications
 
-https://github.com/lavanya-gup05/AI-Auto-Reply-Chatbot
+📚 Continuously learning and exploring emerging AI technologies
 
 ---
 
-# 🏆 Achievements
+# 📊 GitHub Stats
 
-🏅 Google Cloud Arcade Skill Badge Participant
+<p align="center">
 
-☁️ Completed multiple Google Cloud Skill Boost Labs
+<img src="https://github-readme-stats.vercel.app/api?username=lavanya-gup05&show_icons=true&theme=radical&hide_border=true" />
 
-💻 Built projects in Machine Learning, AI, Data Analytics, and Python
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lavanya-gup05&theme=radical&hide_border=true" />
 
-📚 Continuously learning new technologies and improving problem-solving skills
+</p>
 
 ---
 
