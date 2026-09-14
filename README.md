@@ -60,22 +60,19 @@ To build impactful **AI, Machine Learning, and Data Analytics solutions** that s
 * Implemented interactive **slicers, drill-throughs, bookmarks, and dynamic visualizations**.
 
 ---
+# 💻 Tech Stack & Skills
 
-# 🛠️ Tech Stack & Skills
-
-| Category                | Technologies                                                                                                                                                                                                                                                                                                           |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Programming**         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black) |
-| **Machine Learning**    | ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white) Supervised Learning • Classification • Regression • Feature Engineering • Model Evaluation                                                                                                     |
-| **NLP**                 | Text Preprocessing • TF-IDF • Text Classification                                                                                                                                                                                                                                                                      |
-| **Deep Learning**       | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)                                                                                                                                                                                                               |
-| **Generative AI**       | LangChain • Groq API • Prompt Engineering • RAG • Speech-to-Text                                                                                                                                                                                                                                                       |
-| **Data Science**        | Pandas • NumPy • Matplotlib • Seaborn • EDA • Data Preprocessing                                                                                                                                                                                                                                                       |
-| **Data Analytics & BI** | Power BI • DAX • Power Query                                                                                                                                                                                                                                                                                           |
-| **Web Development**     | HTML • CSS • JavaScript • Flask • Streamlit                                                                                                                                                                                                                                                                            |
-| **Tools & Platforms**   | Git • GitHub • VS Code • Google Cloud • Streamlit Cloud                                                                                                                                                                                                                                                                |
-
----
+| Category | Technologies |
+|-----------|--------------|
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) `Supervised Learning` `Classification` `Regression` `Feature Engineering` `Model Evaluation` |
+| **NLP** | `Text Preprocessing` `TF-IDF` `Text Classification` |
+| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| **Generative AI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white) `Prompt Engineering` `RAG` `Speech-to-Text` |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white) `EDA` `Data Preprocessing` |
+| **Data Analytics & BI** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) `DAX` `Power Query` |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 
 # 🚀 Featured Projects
 
